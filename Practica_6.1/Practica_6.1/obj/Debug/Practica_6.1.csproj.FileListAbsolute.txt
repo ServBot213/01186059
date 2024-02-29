@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6.1.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6._1.Properties.Resources.resources
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6.1.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6.1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\bin\Debug\Practica_6.1.exe.config
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\bin\Debug\Practica_6.1.exe
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\bin\Debug\Practica_6.1.pdb
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6._1.Form1.resources
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6.1.exe
+C:\Users\usuario\source\repos\Practica_6.1\Practica_6.1\obj\Debug\Practica_6.1.pdb

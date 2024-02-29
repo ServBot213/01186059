@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\bin\Debug\Practica_7_2.exe.config
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\bin\Debug\Practica_7_2.exe
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\bin\Debug\Practica_7_2.pdb
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.Form1.resources
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.Properties.Resources.resources
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.exe
+C:\Users\usuario\source\repos\Practica_7_2\Practica_7_2\obj\Debug\Practica_7_2.pdb
