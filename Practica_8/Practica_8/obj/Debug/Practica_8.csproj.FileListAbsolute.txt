@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Practica_8\Practica_8\bin\Debug\Practica_8.exe.config
+C:\Users\usuario\source\repos\Practica_8\Practica_8\bin\Debug\Practica_8.exe
+C:\Users\usuario\source\repos\Practica_8\Practica_8\bin\Debug\Practica_8.pdb
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.Properties.Resources.resources
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.exe
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.pdb
+C:\Users\usuario\source\repos\Practica_8\Practica_8\obj\Debug\Practica_8.Calculadora.resources

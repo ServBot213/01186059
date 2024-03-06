@@ -17,7 +17,7 @@ namespace Practica_7_2
         {
             InitializeComponent();
             this.KeyPreview = true;
-            this.KeyDown += new KeyEventHandler(Form1_KeyDown); // Suscripción al evento KeyDown
+            this.KeyDown += new KeyEventHandler(Form1_KeyDown); 
         }
         private void button1_Click(object sender, EventArgs e)
         {
