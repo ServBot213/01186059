@@ -8,3 +8,13 @@ C:\Users\usuario\source\repos\Practica_12\Practica_12\obj\Debug\Practica_12.cspr
 C:\Users\usuario\source\repos\Practica_12\Practica_12\obj\Debug\Practica_12.csproj.CoreCompileInputs.cache
 C:\Users\usuario\source\repos\Practica_12\Practica_12\obj\Debug\Practica_12.exe
 C:\Users\usuario\source\repos\Practica_12\Practica_12\obj\Debug\Practica_12.pdb
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\bin\Debug\Practica_12.exe.config
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\bin\Debug\Practica_12.exe
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\bin\Debug\Practica_12.pdb
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.Form1.resources
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.Properties.Resources.resources
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.exe
+C:\Users\usuario\Desktop\01186059\Practica_12\Practica_12\obj\Debug\Practica_12.pdb
