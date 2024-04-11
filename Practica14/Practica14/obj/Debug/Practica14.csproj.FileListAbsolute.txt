@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Practica14\Practica14\bin\Debug\Practica14.exe.config
+C:\Users\usuario\source\repos\Practica14\Practica14\bin\Debug\Practica14.exe
+C:\Users\usuario\source\repos\Practica14\Practica14\bin\Debug\Practica14.pdb
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.Form1.resources
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.Properties.Resources.resources
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.exe
+C:\Users\usuario\source\repos\Practica14\Practica14\obj\Debug\Practica14.pdb
