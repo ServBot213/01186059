@@ -10,3 +10,15 @@ C:\Users\usuario\source\repos\Practica13\Practica13\obj\Debug\Practica13.exe
 C:\Users\usuario\source\repos\Practica13\Practica13\obj\Debug\Practica13.pdb
 C:\Users\usuario\source\repos\Practica13\Practica13\obj\Debug\Practica13.Form2.resources
 C:\Users\usuario\source\repos\Practica13\Practica13\obj\Debug\Practica13.Form3.resources
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\bin\Debug\Practica13.exe.config
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\bin\Debug\Practica13.exe
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\bin\Debug\Practica13.pdb
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.Form1.resources
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.Form2.resources
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.Form3.resources
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.Properties.Resources.resources
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.exe
+C:\Users\usuario\Desktop\01186059\Practica13\Practica13\obj\Debug\Practica13.pdb
