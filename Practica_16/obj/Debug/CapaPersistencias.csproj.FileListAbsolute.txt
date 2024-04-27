@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\Practica_16\bin\Debug\Practica_16.dll.config
+C:\Users\usuario\source\repos\Practica_16\bin\Debug\Practica_16.dll
+C:\Users\usuario\source\repos\Practica_16\bin\Debug\Practica_16.pdb
+C:\Users\usuario\source\repos\Practica_16\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usuario\source\repos\Practica_16\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\CapaPersistencias.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\CapaPersistencias.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\CapaPersistencias.csproj.CopyComplete
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\Practica_16.dll
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\Practica_16.pdb

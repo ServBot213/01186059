@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\Capa_Negocios.dll.config
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\Capa_Negocios.dll
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\Capa_Negocios.pdb
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\Practica_16.dll
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\Practica_16.pdb
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\Practica_16.dll.config
+C:\Users\usuario\source\repos\Capa Negocios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\source\repos\Capa Negocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Capa Negocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Capa Negocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\usuario\source\repos\Capa Negocios\obj\Debug\Capa_Negocios.dll
+C:\Users\usuario\source\repos\Capa Negocios\obj\Debug\Capa_Negocios.pdb

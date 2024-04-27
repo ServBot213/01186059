@@ -1,0 +1,19 @@
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Capa_Negocios.dll
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Practica_16.dll
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Capa_Negocios.pdb
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Capa_Negocios.dll.config
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Practica_16.pdb
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\Practica_16.dll.config
+C:\Users\usuario\source\repos\Capa Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\Capa_Presentacion.Form2.resources
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+C:\Users\usuario\source\repos\Capa Presentacion\obj\Debug\Capa Presentacion.pdb

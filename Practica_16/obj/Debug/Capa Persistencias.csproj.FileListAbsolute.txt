@@ -1,0 +1,2 @@
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\Capa Persistencias.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Practica_16\obj\Debug\Capa Persistencias.csproj.CoreCompileInputs.cache
