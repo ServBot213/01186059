@@ -64,7 +64,6 @@ namespace Capa_Presentacion
             string marca = textBox3.Text;
             string precio = textBox4.Text;
             string stock = textBox5.Text;
-            string id = textBox6.Text;
             if (nombre.Length == 0 || desc.Length == 0 || marca.Length == 0 ||
                 precio == null || stock == null)
             {

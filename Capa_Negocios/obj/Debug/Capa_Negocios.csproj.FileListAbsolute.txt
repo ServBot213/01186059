@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+C:\Users\usuario\source\repos\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Capa_Negocios\obj\Debug\Capa_Negocios.pdb
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Capa_Negocios.dll.config
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+C:\Users\usuario\source\repos\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Capa_Persistencias.dll
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Capa_Persistencias.pdb
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Capa_Persistencias.dll.config
+C:\Users\usuario\source\repos\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\Capa_Negocios\bin\Debug\Newtonsoft.Json.xml

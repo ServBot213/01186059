@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Capa_Persistencias\obj\Debug\Capa_Persistencias.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Capa_Persistencias\obj\Debug\Capa_Persistencias.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Capa_Persistencias\bin\Debug\Capa_Persistencias.dll.config
+C:\Users\usuario\source\repos\Capa_Persistencias\bin\Debug\Capa_Persistencias.dll
+C:\Users\usuario\source\repos\Capa_Persistencias\bin\Debug\Capa_Persistencias.pdb
+C:\Users\usuario\source\repos\Capa_Persistencias\obj\Debug\Capa_Persistencias.dll
+C:\Users\usuario\source\repos\Capa_Persistencias\obj\Debug\Capa_Persistencias.pdb
